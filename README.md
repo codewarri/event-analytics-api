@@ -17,11 +17,11 @@ Designed to be production-ready and extensible.
 
 
 📦 Tech Stack
-Component	Technology
-API Framework	FastAPI
-Database	PostgreSQL + TimescaleDB
-ORM	SQLModel / SQLAlchemy
-Data validation	Pydantic
+Component	      Technology
+API              Framework	FastAPI
+Database	       PostgreSQL + TimescaleDB
+ORM	             SQLModel / SQLAlchemy
+Data              validation	Pydantic
 Containerisation	Docker + Docker Compose
 
 
